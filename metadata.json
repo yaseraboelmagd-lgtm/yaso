@@ -1,0 +1,8 @@
+{
+  "name": "Remix المحامي الذكي - Smart Lawyer",
+  "description": "نظام إدارة مكتب المحاماة الذكي مع إدارة القضايا، الجلسات، العملاء، المستندات، الفواتير، والمستشار القانوني الذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
